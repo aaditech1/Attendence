@@ -1,0 +1,1 @@
+C:\Users\Siddhartha\AndroidStudioProjects\FaceDetProject\OpenCV4\build\intermediates\cxx\RelWithDebInfo\6lt6w1a3\obj\x86

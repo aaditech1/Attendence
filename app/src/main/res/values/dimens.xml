@@ -1,0 +1,57 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- Margins & Padding, 8 dp baseline, https://material.io/guidelines/layout/metrics-keylines.html#metrics-keylines-baseline-grids -->
+    <dimen name="margin_padding_size_xxsmall">2dp</dimen>
+    <dimen name="margin_padding_size_xsmall">4dp</dimen>
+    <dimen name="margin_padding_size_small">6dp</dimen>
+    <dimen name="margin_padding_size_8dp">8dp</dimen>
+    <dimen name="margin_padding_size_medium">10dp</dimen>
+    <dimen name="margin_padding_intermediate">12dp</dimen>
+    <dimen name="margin_padding_size_14dp">14dp</dimen>
+    <dimen name="margin_padding_size_large">16dp</dimen>
+    <dimen name="margin_padding_size_large_20dp">20dp</dimen>
+    <dimen name="margin_padding_size_large_22dp">22dp</dimen>
+    <dimen name="margin_padding_size_xlarge">24dp</dimen>
+    <dimen name="margin_padding_size_xxlarge">36dp</dimen>
+    <dimen name="margin_padding_size_xxxlarge">48dp</dimen>
+    <dimen name="margin_padding_size_xxxxlarge">60dp</dimen>
+
+    <dimen name="margin_padding_size_75dp">75dp</dimen>
+    <dimen name="margin_padding_size_100dp">100dp</dimen>
+
+    <dimen name="negative_margin_padding_size_large">-16dp</dimen>
+    <dimen name="margin_negative_20dp">-22dp</dimen>
+    <dimen name="negative_margin_padding_size_xlarge">-24dp</dimen>
+    <dimen name="margin_negative_25dp">-25dp</dimen>
+    <dimen name="margin_negative_30dp">-30dp</dimen>
+    <dimen name="margin_negative_50dp">-50dp</dimen>
+    <dimen name="margin_negative_65dp">-65dp</dimen>
+    <dimen name="margin_negative_75dp">-75dp</dimen>
+    <dimen name="margin_negative_100dp">-100dp</dimen>
+
+    <dimen name="text_size_micro">8sp</dimen>
+    <dimen name="text_size_small">10sp</dimen>
+    <dimen name="text_size_small_11sp">11sp</dimen>
+    <dimen name="text_size_medium">12sp</dimen>
+    <dimen name="text_size_large">14sp</dimen>
+    <dimen name="text_size_large_15sp">15sp</dimen>
+    <dimen name="text_size_large_16sp">16sp</dimen>
+    <dimen name="text_size_xlarge">18sp</dimen>
+    <dimen name="text_size_large_20sp">20sp</dimen>
+    <dimen name="text_size_xxlarge">24sp</dimen>
+    <dimen name="text_size_xxxlarge">32sp</dimen>
+    <dimen name="text_size_xxxxlarge">48sp</dimen>
+
+    <dimen name="status_bar_size">25dp</dimen>
+    <dimen name="issue_withdraw_card_height">200dp</dimen>
+    <dimen name="button_radius">25dp</dimen>
+    <dimen name="progress_bar_width">100dp</dimen>
+    <dimen name="number_picker_text_size">50dp</dimen>
+
+</resources>

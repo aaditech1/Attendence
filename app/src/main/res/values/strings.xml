@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FaceDetProject</string>
+    <string name="select_app_type">Select App Type</string>
+    <string name="register">REGISTER</string>
+    <string name="attendance">ATTENDANCE</string>
+    <string name="changepass">Change Password</string>
+</resources>
